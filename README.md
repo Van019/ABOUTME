@@ -6,6 +6,7 @@ Coredev Solutions Inc.
 Location: Sambag 2, Alcantara St. Cebu City
 Software Engineer (2023 - 2026)
 Remote (WFH)
+
 • Designed, developed, tested, and maintained web applications using Laravel, contributing to reliable production releases. 
 • Debugged and resolved application issues across the stack, improving stability and reducing recurring defects. 
 • Collaborated with cross-functional teams to translate requirements into efficient, maintainable code. 
