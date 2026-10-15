@@ -2,13 +2,13 @@
 Hi there 👋 I'm Juvany Yu, a 26-year-old Software Engineer based in Cebu, Philippines. 
 with 3 years of experience using PHP Laravel Framework, build responsive web app and maintain code base, testing/debugging.
 
-Coredev Solutions Inc.
+**Coredev Solutions Inc.**
 
 Location: Sambag 2, Alcantara St. Cebu City
 
-Software Engineer (2023 - 2026)
+**Software Engineer (2023 - 2026)**
 
-Remote (WFH)
+**Remote (WFH)**
 
 • Designed, developed, tested, and maintained web applications using Laravel, contributing to reliable production releases.
 
@@ -18,9 +18,9 @@ Remote (WFH)
 
 
 
-Web Developer - Intern at Mata Technologies Inc.
+**Web Developer - Intern at Mata.**
 
-Hybrid Setup
+**Hybrid Setup**
 
 Link: https://mata.ph/
 
